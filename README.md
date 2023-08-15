@@ -103,10 +103,3 @@ ConfusedCharacter - ConfusedCharacterSup@gmail.com
 
 Project Link: [https://github.com/ConfusedCharacter/Prypto](https://github.com/ConfusedCharacter/Prypto)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
