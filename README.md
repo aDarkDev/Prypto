@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConfusedCharacter/Prypto)
+![GitHub forks](https://img.shields.io/github/forks/ConfusedCharacter/Prypto)
+
 
 
 <!-- PROJECT LOGO -->
