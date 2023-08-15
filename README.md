@@ -81,6 +81,7 @@ This is an example of how to list things you need to use the software and how to
                             If you want to add a password.
   ```
 
+<img src="images/Enc.jpg" alt="Help" width="80" height="80">
 
 <!-- ROADMAP -->
 ## Roadmap
