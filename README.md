@@ -45,9 +45,9 @@ Prypto is an open-source tool designed to convert files into photos and vice ver
 
 This is an example of how to list things you need to use the software and how to install them.
 1. install pip and packages
-  ```sh
-  apt install python3-pip; pip3 install numpy pillow
-  ```
+    ```sh
+    apt install python3-pip; pip3 install numpy pillow
+    ```
 2. Clone the repo
    ```sh
    git clone https://github.com/ConfusedCharacter/Prypto.git; cd Prypto
@@ -60,22 +60,22 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-```sh
-  usage: Prypto.py [-h] [-a ACTION] [-i INPUT] [-o OUTPUT] [-p PASSWORD]        
-  
-  [Prypto Tool] Convert any file to Picture.
-  
-  optional arguments:
-    -h, --help            show this help message and exit
-    -a ACTION, --action ACTION
-                          Action: enc for encrypt and dec for decrypt
-    -i INPUT, --input INPUT
-                          Input File Such as .zip , .txt or anything.
-    -o OUTPUT, --output OUTPUT
-                          Output file for encryption. Example: Prypto
-    -p PASSWORD, --password PASSWORD
-                          If you want to add a password.
-```
+  ```sh
+    usage: Prypto.py [-h] [-a ACTION] [-i INPUT] [-o OUTPUT] [-p PASSWORD]        
+    
+    [Prypto Tool] Convert any file to Picture.
+    
+    optional arguments:
+      -h, --help            show this help message and exit
+      -a ACTION, --action ACTION
+                            Action: enc for encrypt and dec for decrypt
+      -i INPUT, --input INPUT
+                            Input File Such as .zip , .txt or anything.
+      -o OUTPUT, --output OUTPUT
+                            Output file for encryption. Example: Prypto
+      -p PASSWORD, --password PASSWORD
+                            If you want to add a password.
+  ```
 
 
 <!-- ROADMAP -->
