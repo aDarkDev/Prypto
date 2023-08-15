@@ -47,45 +47,41 @@ Prypto is an open-source tool designed to convert files into photos and vice ver
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
+This is an example of how to list things you need to use the software and how to install them.
+1. install pip and packages
+  ```sh
+  apt install python3-pip; pip3 install numpy pillow
+  ```
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ConfusedCharacter/Prypto.git; cd Prypto
    ```
-3. Install NPM packages
+   
+4. Run it `Prypto.py`
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   python3 Prypto.py -h
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+```sh
+  usage: Prypto.py [-h] [-a ACTION] [-i INPUT] [-o OUTPUT] [-p PASSWORD]        
+  
+  [Prypto Tool] Convert any file to Picture.
+  
+  optional arguments:
+    -h, --help            show this help message and exit
+    -a ACTION, --action ACTION
+                          Action: enc for encrypt and dec for decrypt
+    -i INPUT, --input INPUT
+                          Input File Such as .zip , .txt or anything.
+    -o OUTPUT, --output OUTPUT
+                          Output file for encryption. Example: Prypto
+    -p PASSWORD, --password PASSWORD
+                          If you want to add a password.
+```
 
 
 <!-- ROADMAP -->
