@@ -80,9 +80,15 @@ This is an example of how to list things you need to use the software and how to
       -p PASSWORD, --password PASSWORD
                             If you want to add a password.
   ```
-<div align="left">
-<img src="images/Enc.jpg" alt="Help" width="470" height="470">
+<div style="display: flex;">
+  <img src="images/Enc.jpg" alt="Help" width="470" height="470" style="float: left;">
+  <img src="images/Dec.jpg" alt="Help" width="470" height="470" style="float: right;">
 </div>
+
+<div align="center">
+<img src="images/Res.jpg" alt="Help" width="800" height="500">
+</div>
+
 
 <!-- ROADMAP -->
 ## Roadmap
