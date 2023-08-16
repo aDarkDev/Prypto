@@ -42,7 +42,7 @@ Prypto is an open-source tool designed to convert files into photos and vice ver
 
 1. File Conversion: Prypto utilizes the RGB range of 0 to 255 in images. To convert a file into a picture, the tool first encodes the file into Base64 format. Base64 characters range up to 128, so each character is further converted into decimal using the 'ord' function. Each pixel of the image is then used to store the decimal value of a character.
 
-2. Encryption: When decrypting the picture back into a file, Prypto reverses the process. It reads the pixel values from the image and converts them back to decimals. These decimal values are then converted into Base64 characters, and finally, the original file is reconstructed.
+2. Decryption: When decrypting the picture back into a file, Prypto reverses the process. It reads the pixel values from the image and converts them back to decimals. These decimal values are then converted into Base64 characters, and finally, the original file is reconstructed.
 
 
 ### Installation
