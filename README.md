@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 </div>
 
 <div align="center">
-<img src="images/Res.jpg" alt="Help" width="800" height="500">
+<img src="images/Res.jpg" alt="Help" width="650" height="400">
 </div>
 
 
