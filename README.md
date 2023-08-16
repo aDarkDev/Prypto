@@ -2,7 +2,7 @@
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pillow)
 ![GitHub top language](https://img.shields.io/github/languages/top/ConfusedCharacter/Prypto)
-![GitHub Repo stars](https://img.shields.io/github/stars/ConfusedCharacter/Prypto)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConfusedCharacter/Prypto).
 ![GitHub forks](https://img.shields.io/github/forks/ConfusedCharacter/Prypto)
 
 
