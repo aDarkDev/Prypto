@@ -1,16 +1,16 @@
 <a name="readme-top"></a>
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pillow)
-![GitHub top language](https://img.shields.io/github/languages/top/ConfusedCharacter/Prypto)
-![GitHub Repo stars](https://img.shields.io/github/stars/ConfusedCharacter/Prypto)
-![GitHub forks](https://img.shields.io/github/forks/ConfusedCharacter/Prypto)
+![GitHub top language](https://img.shields.io/github/languages/top/aDarkDev/Prypto)
+![GitHub Repo stars](https://img.shields.io/github/stars/aDarkDev/Prypto)
+![GitHub forks](https://img.shields.io/github/forks/aDarkDev/Prypto)
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ConfusedCharacter/Prypto">
+  <a href="https://github.com/aDarkDev/Prypto">
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -21,9 +21,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/ConfusedCharacter/Prypto/issues">Report Bug</a>
+    <a href="https://github.com/aDarkDev/Prypto/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ConfusedCharacter/Prypto/issues">Request Feature</a>
+    <a href="https://github.com/aDarkDev/Prypto/issues">Request Feature</a>
   </p>
 </div>
 
@@ -54,7 +54,7 @@ This is an example of how to list things you need to use the software and how to
     ```
 2. Clone the repo
    ```sh
-   git clone https://github.com/ConfusedCharacter/Prypto.git; cd Prypto
+   git clone https://github.com/aDarkDev/Prypto.git; cd Prypto
    ```
    
 4. Run it `Prypto.py`
@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 - [x] Support all file types for encryption
 - [x] The photo is legible and does not break
 
-See the [open issues](https://github.com/ConfusedCharacter/Prypto/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/aDarkDev/Prypto/issues) for a full list of proposed features (and known issues).
 
 
 <!-- LICENSE -->
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-ConfusedCharacter - ConfusedCharacterSup@gmail.com
+aDarkDev - aDarkDevSup@gmail.com
 
-Project Link: [https://github.com/ConfusedCharacter/Prypto](https://github.com/ConfusedCharacter/Prypto)
+Project Link: [https://github.com/aDarkDev/Prypto](https://github.com/aDarkDev/Prypto)
 
