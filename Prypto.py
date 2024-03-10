@@ -1,7 +1,7 @@
 #####################################################
 # Prypto - Picture Cryptography Tool                #
 # Version: 1.0.0                                    #
-# Authors: [ConfusedCharacter]                      #
+# Authors: [aDarkDev]                      #
 # Description: This tool converts files into images #
 #              and vice versa, providing secure     #
 #              encryption using AES.                #
@@ -37,7 +37,7 @@ banner = f"""\033[94m
  ▄████▀        ███    ███  ▀█████▀   ▄████▀         ▄████▀    ▀██████▀  
                ███    ███                                                     
     \033[0m                                           
-    \t--> \033[95mGithub [ConfusedCharacter]\033[0m --
+    \t--> \033[95mGithub [aDarkDev]\033[0m --
     \t--  \033[95mVersion [{version}]\033[0m <--
 """
 print(banner)
